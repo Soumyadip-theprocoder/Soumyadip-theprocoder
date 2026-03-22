@@ -4,7 +4,6 @@
 **Soumyadip-theprocoder/Soumyadip-theprocoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # 💫 About Me:
-# 💫 About Me:
 Hi, I'm Soumyadip<br>A passionate Full stack developer<br>Soumyadip-theprocoder<br><br>🌱 I'm currently learning python, typescript and more
 
 
